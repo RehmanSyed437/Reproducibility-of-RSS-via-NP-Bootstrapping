@@ -1,4 +1,4 @@
-# Reproducibility-of-RSS-via-NP-Bootstrapping
+#Using R- Reproducibility of RSS methods using Nonparametric predictive bootstrapping
 valuating the statistical reproducibility of RSS methods using nonparametric predictive bootstrapping
 
 set.seed(2)
